@@ -1,7 +1,7 @@
 # coursera: Getting & Cleanning_data
-Coursera: Getting &amp; Cleaning data. Course project
+Processing tidy data from Samsung Galaxy S smartphones features observations
 
-In this project we read tidy data about some experiment results in Samsung Galaxy S smartphones.
+In this project we read tidy data about experiment results in Samsung Galaxy S smartphones.
 Input data are two sets of data: test data and train data. They have information about subject, activity and a lot of variables (561) for each one (test/train). There are also  some files that are unique for both: information about the variables in the test/train files, and information about de activities: name
 
 The steps in this script (run_analysis.R) are:
