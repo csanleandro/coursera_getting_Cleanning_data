@@ -1,2 +1,2 @@
-# coursera_getting_Cleanning_data
-Coursera: Getting &amp; Cleaning data. Assignment week 4
+# coursera: Getting & Cleanning_data
+Coursera: Getting &amp; Cleaning data. Assignment week 4 project
